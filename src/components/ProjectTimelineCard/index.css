@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.project-image {
+  width: 500px;
+}
+.project-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.calender-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.heading-project {
+  color: #1e293b;
+  font-size: 28px;
+  font-weight: 600;
+  font-family: Roboto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.calender-icon {
+  color: #1e293b;
+  font-size: 18px;
+  margin-right: 3px;
+}
+
+.time-duration {
+  color: #1e293b;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Roboto;
+}
+.project-description {
+  color: #171f46;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 16px;
+}
+.project-url {
+  text-decoration: none;
+  color: #0967d2;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 18px;
+}
